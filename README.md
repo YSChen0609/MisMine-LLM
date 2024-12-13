@@ -3,10 +3,11 @@
 ### Yu-Sheng Chen (334003776)
 
 ## Deliverables
-- Report.pdf
-- main.ipynb
-- Demo Video: 
+- Github Repo: https://github.com/YSChen0609/Eedi-Competition/tree/main
+- Demo Video: https://drive.google.com/file/d/1VbmRqk8_sCgZiPsD3CtTbkp0WSBtx8rl/view?usp=sharing
 - Model Weights: https://drive.google.com/drive/folders/1s2CHHofe6MCfkIjog5i8tvY4fZtxksNY?usp=sharing
+- main.ipynb
+- Report.pdf
 
 ## 1. Introduction
 
