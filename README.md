@@ -1,5 +1,5 @@
 # MisMine: A Data-Driven Approach to Understanding Student Learning
-### Yu-Sheng Chen (334003776)
+This is a repoitory of the code for participating in the Eedi-Mining Misconceptions in Mathematics competition.
 
 ## Deliverables
 - Github Repo: https://github.com/YSChen0609/Eedi-Competition/tree/main
