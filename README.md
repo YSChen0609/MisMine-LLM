@@ -1,5 +1,4 @@
 # MisMine: A Data-Driven Approach to Understanding Student Learning
-### CSCE-689 Programming LLMs Final Project Report
 ### Yu-Sheng Chen (334003776)
 
 ## Deliverables
